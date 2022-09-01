@@ -30,3 +30,17 @@
 - openpyxl
 - datetime
 - aiogram
+
+
+![page2](https://user-images.githubusercontent.com/101623951/187842031-837cd7e2-f3ce-4e3e-8f69-493a1ea9ae58.jpg)
+
+![finish_img2](https://user-images.githubusercontent.com/101623951/187842213-8d49ea49-8521-4699-b159-cd8f5aa74d01.jpg)
+
+![buyer2](https://user-images.githubusercontent.com/101623951/187842104-9a6982f2-d924-43e4-ab54-53fbb9ff14f9.jpg)
+
+![buyer_address2](https://user-images.githubusercontent.com/101623951/187842259-59bb9563-2387-4fb6-844d-a732336cd07f.jpg)
+
+
+
+
+
